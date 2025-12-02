@@ -1,0 +1,4 @@
+2025-11-16 08:09:44 INFO     Saved submission -> out.csv
+2025-11-16 08:09:45 INFO     [Train] metric (with vol-cap): 0.891542
+2025-11-16 08:09:45 INFO     [Test]  metric (with vol-cap): 0.538307
+2025-11-16 08:09:45 INFO     [Naive=1.0][TEST] metric: 0.538198

@@ -1,0 +1,5 @@
+2025-12-02 01:22:04 INFO     Saved test truth/prediction CSV -> test_truth_prediction.csv
+2025-12-02 01:22:04 INFO     Saved submission -> out.csv
+2025-12-02 01:22:04 INFO     [Train] metric (with vol-cap): 0.692891
+2025-12-02 01:22:04 INFO     [Test]  metric (with vol-cap): 0.803886
+2025-12-02 01:22:04 INFO     [Naive=1.0][TEST] metric: 0.804867
